@@ -1,0 +1,1 @@
+# scrapy-elasticsearch-push-notification
